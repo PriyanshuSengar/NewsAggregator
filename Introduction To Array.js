@@ -1,5 +1,5 @@
 const Friend1='Naveen';
-const Friend2='Nikcu';
+const Friend2='Nicku';
 const Friend3='Ankit';
 const friends=['Naveen','Nicku','Ankit'];
 console.log(friends);
@@ -7,7 +7,7 @@ const years =(1991,1984,2008,2024);
 console.log(friends[0]);
 console.log(friends[2]);
 console.log(friends.length);
-console.log(friends[friends.length-1]);
+console.log(friends[friends.length-1]);  
 friends[2]='luckey';
 console.log(friends);
 // arrays are mutuable even initialised by the cosnt
