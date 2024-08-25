@@ -1,0 +1,52 @@
+body{
+    background-color: black;
+}
+h1,h2{
+    display: inline;
+    color: white;
+}
+h2{
+    margin-left:60px;
+    padding-left: 10%;
+}
+h1{
+    margin-left: 120px;
+    color: white;
+}
+h1:hover{
+    color: blue;
+    text-underline-position: below;
+    cursor: pointer;
+}
+h2:hover{
+    color: blue;
+    cursor: pointer;
+}
+#image{
+    border-radius: 20px;
+    margin-top: 20px;
+}
+#image:hover{
+    border: 2px solid rgb(81, 81, 229);
+}
+#heading{
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10%;
+    font-size:80px;
+}
+#anon{
+    color: blue;
+}
+#eff{
+    color: blue;
+}
+#para{
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+}
