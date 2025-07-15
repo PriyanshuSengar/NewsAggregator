@@ -8,6 +8,11 @@ body {
 background-size: contain;
   /* background:center; */
 }
+#searchwidget{
+    margin-left: 180px;
+    margin-top: 20px;
+   
+}
 
 .left {
   display: inline-block;
